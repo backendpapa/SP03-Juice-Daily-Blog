@@ -65,7 +65,7 @@
         </v-col>
         <v-col cols="12" xl="4" lg="4">
 
-          <iframe width="100%" height="100%"  src="https://www.youtube.com/embed/YY_zr8ELP_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen autoplay="1"></iframe>
+          <iframe  width="100%" height="100%"  src="https://www.youtube.com/embed/YY_zr8ELP_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen autoplay="1"></iframe>
            
         </v-col>
       </v-row>

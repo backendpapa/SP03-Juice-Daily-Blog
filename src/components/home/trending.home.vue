@@ -10,7 +10,7 @@
                   <v-card flat>
                       <v-row no-gutters>
                         <v-col cols="6">
-                             <v-img src="../../assets/ft1.png"></v-img>
+                             <v-img eager src="../../assets/ft1.png"></v-img>
                         
                         </v-col>
                         <v-col cols="6">
@@ -27,7 +27,7 @@
                   <v-card flat>
                       <v-row no-gutters>
                         <v-col cols="6">
-                             <v-img src="../../assets/ft2.png"></v-img>
+                             <v-img eager src="../../assets/ft2.png"></v-img>
                         
                         </v-col>
                         <v-col cols="6">
@@ -44,7 +44,7 @@
                   <v-card flat>
                       <v-row no-gutters>
                         <v-col cols="6">
-                             <v-img src="../../assets/ft3.png"></v-img>
+                             <v-img eager src="../../assets/ft3.png"></v-img>
                         
                         </v-col>
                         <v-col cols="6">
